@@ -84,9 +84,8 @@ npm run dev
 
 ## Known Problems
 
-1. **Sales Challan Visibility**: The sales challan isn't visible in the UI, but the operation correctly subtracts from the overall stock. This is due to a frontend rendering or state management issue.
-2. **Role Limitations**: Currently, roles are only implemented for the admin user. Other functional roles like sales, warehouse, and accounts are not fully integrated or functional.
-3. **Password Security**: Passwords are saved in a plain, unprotected manner which poses a security risk. They should be securely hashed and safely stored for better protection and privacy.
+1. **Role Limitations**: Currently, roles are only implemented for the admin user. Other functional roles like sales, warehouse, and accounts are not fully integrated or functional.
+2. **Password Security**: Passwords are saved in a plain, unprotected manner which poses a security risk. They should be securely hashed and safely stored for better protection and privacy.
 
 ## License
 
