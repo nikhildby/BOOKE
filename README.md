@@ -81,6 +81,7 @@ npm run dev
 - **Frontend**: React, TypeScript, Vite, Tailwind CSS, Framer Motion, Recharts, Lucide Icons.
 - **Backend**: Node.js, Express, TypeScript, JWT Authentication.
 - **Database**: PostgreSQL with Prisma ORM.
+- **Deployement**: Hosted at AWS EC2
 
 ## Known Problems
 
