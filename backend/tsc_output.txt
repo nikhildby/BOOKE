@@ -1,0 +1,6 @@
+src/index.ts(4,10): error TS2305: Module '"@prisma/client"' has no exported member 'PrismaClient'.
+src/index.ts(7,28): error TS2306: File 'C:/Users/KIIT/Documents/ERP SYS/backend/src/routes/customers.ts' is not a module.
+src/routes/auth.ts(4,10): error TS2305: Module '"@prisma/client"' has no exported member 'PrismaClient'.
+src/routes/challans.ts(2,10): error TS2305: Module '"@prisma/client"' has no exported member 'PrismaClient'.
+src/routes/challans.ts(33,57): error TS7006: Parameter 'tx' implicitly has an 'any' type.
+src/routes/products.ts(2,10): error TS2305: Module '"@prisma/client"' has no exported member 'PrismaClient'.
