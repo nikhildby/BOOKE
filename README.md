@@ -1,5 +1,5 @@
 # BOOKE ERP + CRM SYSTEM
-
+**🚀 Live Demo Hosted on AWS EC2: [http://13.49.159.172/](http://13.49.159.172/)**
 A modern, full-stack Enterprise Resource Planning (ERP) and Customer Relationship Management (CRM) system built for small to medium businesses. Features a beautiful, premium glassmorphic UI alongside a robust relational database backbone.
 
 ## System Architecture
