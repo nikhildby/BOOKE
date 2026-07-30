@@ -3,7 +3,7 @@
 
 **Default Credentials:**
 - Email: `admin@booke.com`
-- Password: `admin@123`
+- Password: `admin123`
 
 A modern, full-stack Enterprise Resource Planning (ERP) and Customer Relationship Management (CRM) system built for small to medium businesses. Features a beautiful, premium glassmorphic UI alongside a robust relational database backbone.
 
